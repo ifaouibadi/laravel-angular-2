@@ -1,0 +1,10 @@
+{
+  "name": "laravel-angular-2",
+  "version": "1.0.0",
+  "authors": [
+    "Badi Ifaoui <contact@badi.tn>"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
